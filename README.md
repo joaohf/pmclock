@@ -58,3 +58,9 @@ References
 ----------
 
 * [Periodic sending a message based on clock wall time](https://erlangforums.com/t/periodic-sending-a-message-based-on-clock-wall-time/2800)
+
+TODO
+----
+
+- [ ] Add unit tests
+- [ ] Add support for configure pmclock's periods other than 15-min and 24-hour
